@@ -1,0 +1,5 @@
+{
+  "nobi30": { "valid": true, "duration": 30 },
+  "nobi90": { "valid": true, "duration": 90 },
+  "nobi45": { "valid": true, "duration": 45 }
+}
